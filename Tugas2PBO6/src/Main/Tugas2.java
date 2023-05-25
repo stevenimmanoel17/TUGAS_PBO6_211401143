@@ -1,11 +1,5 @@
 package Main;
 
-/**
- *
- * @author Sohmono Sodip Manik
- *         211401123
- */
-
 import Interface.Controllable;
 import Abstract.Character;
 import Inner.Player;
