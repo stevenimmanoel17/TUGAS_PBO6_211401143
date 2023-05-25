@@ -4,10 +4,6 @@
  */
 package Abstract;
 
-/**
- *
- * @author Mono
- */
 
 import Interface.Controllable;
 
