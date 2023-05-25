@@ -4,10 +4,6 @@
  */
 package Inner;
 
-/**
- *
- * @author Mono
- */
 
 import Abstract.Character;
 
